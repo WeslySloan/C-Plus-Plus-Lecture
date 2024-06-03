@@ -1,2 +1,4 @@
 ﻿  Program.cpp
-  Program.vcxproj -> C:\Users\rkc32\OneDrive\Desktop\GITHUB\C-Plus-Plus-Lecture\Program\x64\Debug\Program.exe
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\C-Plus-Plus-Lecture\Program\Program\Program.cpp(14,24): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\C-Plus-Plus-Lecture\Program\Program\Program.cpp(14,26): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\rkc32\OneDrive\Desktop\GITHUB\C-Plus-Plus-Lecture\Program\Program\Program.cpp(115,18): error C2059: 구문 오류: '.'
